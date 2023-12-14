@@ -1,0 +1,7 @@
+{
+    "version": "0.1",
+    "dependencies": {
+        "@bentonow/bento-node-sdk": "^0.2.0",
+        "mailparser": "^3.6.5"
+    }
+}
