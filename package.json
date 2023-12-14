@@ -1,7 +1,7 @@
 {
     "version": "0.1.0",
+    "name": "nodemailer-bento-transport",
     "dependencies": {
-        "@bentonow/bento-node-sdk": "^0.2.0",
-        "mailparser": "^3.6.5"
+        "@bentonow/bento-node-sdk": "^0.2.0"        
     }
 }
