@@ -17,7 +17,7 @@ class BentoTransport {
               secretKey: options['secretKey'], 
             },
             logErrors: false, // Set to true to see the HTTP errors logged
-            siteUuid: options['siteuuid'],
+            siteUuid: options['siteUuid'],
         });
     }
 

@@ -16,7 +16,7 @@ const bento = require('nodemailer-bento-transport');
 const options = {
     publishablekey: 'pk-123', //Your Publishable Key
     secretkey: 'sk-123', //Your Secret Key
-    siteuuid: '1234-12434', //Your Site UUID        
+    siteUuid: '1234-12434', //Your Site UUID        
 }
 
 const nodemailerBento = nodemailer.createTransport(bento(options));
